@@ -1,0 +1,17 @@
+{
+  "name": "PuppeteerTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/worker.js",
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.4.0",
+    "puppeteer": "^1.7.0"
+  }
+}
